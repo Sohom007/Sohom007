@@ -62,6 +62,6 @@
 <br>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohom007&show_icons=true&locale=en&layout=compact" 
-       alt="sohom007" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohom007&" alt="sohom007" />
+       alt="readme-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohom007&" alt="readme-streak" />
 </p>
